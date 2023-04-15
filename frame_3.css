@@ -1,0 +1,68 @@
+/*
+	@name frame_3
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 700px; width: 700px; height: 1000px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__frame_3 {
+	top: 0px;
+	left: 0px;
+	width: 700px;
+	height: 1000px;
+	background:rgba(213.56,197.99,169.96,1);
+}
+
+#frame_1 {
+	top: 175px;
+	left: 50px;
+	width: 600px;
+	height: 650px;
+}
+#frame_10 {
+	top: 53px;
+	left: 101px;
+	width: 397px;
+	height: 397px;
+}
+
+#logo_01_1 {
+	top: 10px;
+	left: 10px;
+	width: 377px;
+	height: 377px;
+}
+
+#frame_9 {
+	top: 440px;
+	left: 38px;
+	width: 523px;
+	height: 170px;
+}
+
+#_________________________________ {
+	top: 10px;
+	left: 5px;
+	width: 522px;
+	height: 168.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 27px;
+	text-align: center;
+	line-height: 50px;
+	margin-top: -7.6666666666667px;
+	height: 195.5px;
+	letter-spacing: 2.7px;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
